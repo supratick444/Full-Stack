@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html 
+
+# i am allowing all the web crawlers to access every single file and help in seo serach , data minning pe help karsakta haaa 
+
+User-agent: *
+Disallow:
